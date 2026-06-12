@@ -1,0 +1,1 @@
+import{j as e}from"./index-CK2eGNfY.js";const t=()=>e.jsx("div",{className:"flex min-h-screen items-center justify-center",children:e.jsx("p",{children:"المنتج غير موجود"})});export{t as notFoundComponent};
